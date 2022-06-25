@@ -15,16 +15,16 @@
   </properties>
   
 <distributionManagement>
-  <repository>
+ <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://3.21.34.43:8081/repository/maven-releases/</url>
+    <url>http://3.86.213.248:8081/repository/maven-releases/</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://3.21.34.43:8081/repository/maven-snapshots/</url>
-   </snapshotRepository>
+    <url>http://3.86.213.248:8081/repository/maven-snapshots/</url>
+ </snapshotRepository>
 </distributionManagement>
 
   <dependencies>
